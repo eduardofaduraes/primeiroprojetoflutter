@@ -1,0 +1,11 @@
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/icudtl.dat
+C:/frameworks/diocounterproject/build/windows/runner/Debug/flutter_windows.dll
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/frameworks/diocounterproject/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

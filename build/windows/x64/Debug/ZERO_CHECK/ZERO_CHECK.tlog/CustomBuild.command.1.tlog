@@ -1,0 +1,10 @@
+^C:\FRAMEWORKS\DIOCOUNTERPROJECT\BUILD\WINDOWS\CMAKEFILES\99BFD5C5C5C31C7BD6791375BC9BF267\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/frameworks/diocounterproject/windows -BC:/frameworks/diocounterproject/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/frameworks/diocounterproject/build/windows/diocounterproject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
